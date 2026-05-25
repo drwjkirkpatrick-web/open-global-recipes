@@ -1,0 +1,35 @@
+# Database files
+recipes.db
+*.db.bak-*
+*.sqlite
+*.sqlite3
+
+# Raw data (too large for git)
+data/
+raw_data/
+*.tar.gz
+*.zip
+
+# Exports
+exports/
+*.csv
+*.json
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# System
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Large SQL dumps
+dumps/
+*.sql
+*.sql.gz
