@@ -123,7 +123,7 @@ python3 scripts/query_export.py --random
 | `--id 42` | Full recipe by ID |
 | `--export-csv "Mexico"` | Write `exports/Mexico_recipes.csv` |
 | `--export-json "Mexico"` | Write `exports/Mexico_recipes.json` |
-| `--pdf-book "Mexico"` | Styled PDF recipe book |活性炭
+| `--pdf-book "Mexico"` | Styled PDF recipe book |
 
 ### Scripts are Modular
 

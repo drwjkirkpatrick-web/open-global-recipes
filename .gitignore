@@ -33,3 +33,6 @@ __pycache__/
 dumps/
 *.sql
 *.sql.gz
+
+# Except schema seed files
+!schema/*.sql
